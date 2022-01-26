@@ -9,7 +9,7 @@
     "seed": "node seeds/seed.js"
   },
   "engines": {
-    "node": "17.4.0"
+    "node": "14.18.0"
   },
   "keywords": [],
   "author": "",
